@@ -44,7 +44,7 @@ Se você faz parte do Kookie, este repositório é seu também. 💜
 
 ## **📄 Licença**
 
-Este repositório segue a licença open-source especificada no arquivo LICENSE.
+Este repositório segue a licença open-source especificada no arquivo LICENSE de cada projeto.
 Você é livre para usar, modificar e distribuir conforme as regras da licença escolhida.
 
 ## **⭐ Apoie o projeto**
