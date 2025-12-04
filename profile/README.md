@@ -33,7 +33,7 @@ Se quiser enviar um novo recurso, correção ou sugestão, basta abrir um Pull R
 
 ## **🛠 Tecnologias**
 
-Os projetos aqui podem envolver diferentes tecnologias, dependendo da iniciativa da comunidade. O projeto principal da comunidade [Kookie Chan](https://github.com/Kookie-Community/Kookie-Chan) utiliza Python mas podemos vir a utlizar outras caso necessario.
+Os projetos aqui podem envolver diferentes tecnologias, dependendo da iniciativa da comunidade. O projeto principal da comunidade [Kookie Chan](https://github.com/Kookie-Community/Kookie-Chan) utiliza Python mas podemos vir a utlizar outras caso necessário.
 
 ## **📢 Comunidade**
 
